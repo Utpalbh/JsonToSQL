@@ -1,0 +1,17 @@
+D:\GithubWorkSpace\JSONToSQL\bin\Debug\net7.0\JSONToSQL.exe
+D:\GithubWorkSpace\JSONToSQL\bin\Debug\net7.0\JSONToSQL.deps.json
+D:\GithubWorkSpace\JSONToSQL\bin\Debug\net7.0\JSONToSQL.runtimeconfig.json
+D:\GithubWorkSpace\JSONToSQL\bin\Debug\net7.0\JSONToSQL.dll
+D:\GithubWorkSpace\JSONToSQL\bin\Debug\net7.0\JSONToSQL.pdb
+D:\GithubWorkSpace\JSONToSQL\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.csproj.AssemblyReference.cache
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.AssemblyInfoInputs.cache
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.AssemblyInfo.cs
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.csproj.CoreCompileInputs.cache
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.csproj.CopyComplete
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.dll
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\refint\JSONToSQL.dll
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.pdb
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\JSONToSQL.genruntimeconfig.cache
+D:\GithubWorkSpace\JSONToSQL\obj\Debug\net7.0\ref\JSONToSQL.dll

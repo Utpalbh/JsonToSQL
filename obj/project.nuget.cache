@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubE4mJMwrRg3+ewXlpQb/TmisKtR/8tTqA+1hrcLkRvrEqDw/JOHf7W2i/Q7ZFRblIH247sRzuFcvC0BlSbEtA==",
+  "success": true,
+  "projectFilePath": "D:\\GithubWorkSpace\\JSONToSQL\\JSONToSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utpal.b.ILS-LP-056\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

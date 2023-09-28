@@ -1,0 +1,34 @@
+{
+  "columns": [
+    {
+      "operator": "IN",
+      "fieldName": "column1",
+      "fieldValue": "a,b,c"
+    },
+    {
+      "operator": "=",
+      "fieldName": "column2",
+      "fieldValue": "256"
+    },
+    {
+      "operator": "Between",
+      "fieldName": "column3",
+      "fieldValue": "10 and 1000"
+    },
+    {
+      "operator": "Like",
+      "fieldName": "column4",
+      "fieldValue": "xyz"
+    },
+    {
+      "operator": "<=",
+      "fieldName": "column5",
+      "fieldValue": "500000"
+    },
+    {
+      "operator": ">=",
+      "fieldName": "column6",
+      "fieldValue": "50"
+    }
+  ]
+}

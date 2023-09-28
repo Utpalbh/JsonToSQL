@@ -1,0 +1,36 @@
+{
+  "tables": [
+    {
+      "name": "table1",
+      "conditions": [
+        {
+          "operator": "IN",
+          "fieldName": "column1",
+          "fieldValue": "a,b,c"
+        },
+        {
+          "operator": "=",
+          "fieldName": "column2",
+          "fieldValue": "256"
+        }
+      ]
+    },
+    {
+      "name": "table2",
+      "conditions": [
+        {
+          "operator": "Like",
+          "fieldName": "column3",
+          "fieldValue": "xyz%"
+        },
+        {
+          "operator": ">=",
+          "fieldName": "column4",
+          "fieldValue": "50"
+        }
+      ],
+      "join": "INNER JOIN",
+      "on": "table1.columnX = table2.columnY"
+    }
+  ]
+}
